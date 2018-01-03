@@ -379,7 +379,8 @@ hr {
 
 .no-js .panel-main {
     width: 30%;
-    max-width: 700px; }
+    max-width: 700px;
+    margin: 0 auto}
 
 .panel-main__inner {
     display: table-cell;
@@ -824,3 +825,7 @@ input[type="tel"]:-ms-input-placeholder {
     .btn, .navigation__item a {
         display: block;
         margin-bottom: .4em; } }
+.panel-inverted{
+    text-align: center;
+    margin: 0 auto;
+}
