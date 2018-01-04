@@ -705,6 +705,7 @@ input[type="search"]:-ms-input-placeholder,
 input[type="tel"]:-ms-input-placeholder {
     color: #CCCCCC; }
 
+/*
 @media all and (max-width: 1100px) {
     .panel-cover__logo {
         width: 70px; }
@@ -828,4 +829,4 @@ input[type="tel"]:-ms-input-placeholder {
 .panel-inverted{
     text-align: center;
     margin: 0 auto;
-}
+}*/
